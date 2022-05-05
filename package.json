@@ -1,0 +1,33 @@
+{
+  "name": "a01-nymanka",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-nymanka.git"
+  },
+  "author": "Kaan Nyman",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-nymanka/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-nymanka#readme",
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "wget": "0.0.1"
+  }
+}
